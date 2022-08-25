@@ -4,7 +4,7 @@
 #### by Moritz Altemeyer and Philipp Hege
 ---------------------------
 
-This repository contains the code of the COMET experiment. In detail, it consists of the following:
+This project folder contains the code of the COMET experiment. In detail, it consists of the following:
 
 - Folder **comet_train**: Files and data used for training.
 
