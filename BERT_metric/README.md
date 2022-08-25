@@ -4,7 +4,7 @@
 #### by Moritz Altemeyer and Philipp Hege
 ------------------------------
 
-This repository contains the code of the BERT experiment. In detail, it consists of the following:
+This project folder contains the code of the BERT experiment. In detail, it consists of the following:
 
 - Folder **__pycache__**: Usual Python caches created automatically during execution.
 - Folder **data**: Contains the data used for the project: WMT17. One train data set used for training and testing within training, one test data set used for evaluation.
