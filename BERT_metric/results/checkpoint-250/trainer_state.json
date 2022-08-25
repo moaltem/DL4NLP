@@ -1,0 +1,25 @@
+{
+  "best_metric": 0.149444118142128,
+  "best_model_checkpoint": "./results/checkpoint-250",
+  "epoch": 1.0,
+  "global_step": 250,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "eval_loss": 0.022333543747663498,
+      "eval_mse": 0.149444118142128,
+      "eval_runtime": 207.492,
+      "eval_samples_per_second": 4.819,
+      "eval_steps_per_second": 0.304,
+      "step": 250
+    }
+  ],
+  "max_steps": 2000,
+  "num_train_epochs": 8,
+  "total_flos": 531713366016000.0,
+  "trial_name": null,
+  "trial_params": null
+}
