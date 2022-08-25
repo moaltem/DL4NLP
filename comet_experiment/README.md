@@ -6,13 +6,13 @@
 
 This repository contains the code of the COMET experiment. In detail, it consists of the following:
 
-— Folder **comet_train**: Files and data used for training.
+- Folder **comet_train**: Files and data used for training.
 
-— Folder **comet_test**: Files and data used for testing.
+- Folder **comet_test**: Files and data used for testing.
 
-— Folder **encoders**: Modified encoder folder for the unbabel-comet library.
+- Folder **encoders**: Modified encoder folder for the unbabel-comet library.
 
-— Document **comet_environment.yml**: Conda environment file containing all necessary libraries.
+- Document **comet_environment.yml**: Conda environment file containing all necessary libraries.
 
 ---------------------------
 
