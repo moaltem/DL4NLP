@@ -1,0 +1,20 @@
+activations: Tanh
+batch_size: 8
+class_identifier: regression_metric
+dropout: 0.15
+encoder_learning_rate: 1.0e-05
+encoder_model: XLM-RoBERTa
+final_activation: null
+hidden_sizes:
+- 384
+keep_embeddings_frozen: true
+layer: mix
+layerwise_decay: 0.95
+learning_rate: 3.1e-05
+load_weights_from_checkpoint: null
+nr_frozen_epochs: 0.3
+optimizer: AdamW
+pool: avg
+pretrained_model: xlm-roberta-base
+train_data: data/TRAIN.csv
+validation_data: data/DEV.csv
