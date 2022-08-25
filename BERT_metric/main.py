@@ -12,7 +12,7 @@ from tools import WriteOutput_txt # local .py file
 if __name__ == '__main__':
     # global variables
     test_size = 0.2 # percentage used to test within training
-    iterations = 1 # number of iteratins
+    iterations = 5 # number of iteratins
     model_name = 'bert-base-multilingual-uncased' # model name (from HuggingFace)
     epochs__nbs_datapoints = [(1, 500), (8, 500), (1, 5_000), (8, 5_000)] # First element of the tuple: number of epochs per training iteration; Second: number of data points used for each training iteration
     eval_size = 1_000 # number of data points for evaluation
