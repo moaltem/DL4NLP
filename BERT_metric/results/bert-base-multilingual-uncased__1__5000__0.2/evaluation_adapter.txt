@@ -1,0 +1,9 @@
+EVAL INFORMATION:
+Model: bert-base-multilingual-uncased-adapter
+Evaluation Size: 1000
+
+RESULTS:
+Pearson-R: 0.17399401366680836
+Standard Deviation: 0.16546513658863804
+MSE: 0.04356087906573473
+Runtime: 208.102759

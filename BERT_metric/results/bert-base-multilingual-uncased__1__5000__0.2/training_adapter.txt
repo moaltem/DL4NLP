@@ -1,0 +1,8 @@
+TRAIN INFORMATION:
+Model: bert-base-multilingual-uncased-adapter
+Number Train Epochs: 1
+Number Datapoints: 5000
+Test Size: 0.2
+
+RESULTS:
+Runtime: 2218.560188
